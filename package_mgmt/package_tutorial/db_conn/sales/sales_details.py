@@ -1,0 +1,2 @@
+class SalesDetails:
+    pass
