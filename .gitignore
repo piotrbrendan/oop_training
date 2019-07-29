@@ -1,4 +1,5 @@
 venv/
 Code_base/
+.idea/
 
 *.pdf
